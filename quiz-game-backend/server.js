@@ -1,4 +1,4 @@
-// quiz-game-backend/server.js
+// quiz-game-backend/server.jsc
 const express = require('express');
 const dotenv = require('dotenv');
 const connectDB = require('./config/db'); // We'll create this soon
@@ -16,7 +16,7 @@ const app = express();
 const server = http.createServer(app);
 const io = new Server(server, {
     cors: {
-        origin: process.env.NODE_ENV === 'production' ? null : 'http://localhost:3000', // Allow frontend origin
+        origin: process.env.NODE_ENV === 'production' ? null : 'http://localhost:300', // Allow frontend origin
         methods: ["GET", "POST"]
     }
 });
