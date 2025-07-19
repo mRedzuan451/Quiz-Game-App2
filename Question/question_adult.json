@@ -1,0 +1,89 @@
+[
+  {
+    "questionText": "What is the capital of France?",
+    "questionType": "multiple-choice",
+    "category": "general-knowledge",
+    "difficulty": "easy",
+    "mode": "adult",
+    "options": ["Berlin", "Madrid", "Paris", "Rome"],
+    "correctAnswer": "Paris"
+  },
+  {
+    "questionText": "True or False: The Earth is flat.",
+    "questionType": "true-false",
+    "category": "general-knowledge",
+    "difficulty": "easy",
+    "mode": "adult",
+    "options": ["True", "False"],
+    "correctAnswer": "False"
+  },
+  {
+    "questionText": "Which planet is known as the Red Planet?",
+    "questionType": "multiple-choice",
+    "category": "science",
+    "difficulty": "medium",
+    "mode": "adult",
+    "options": ["Earth", "Mars", "Jupiter", "Venus"],
+    "correctAnswer": "Mars"
+  },
+  {
+    "questionText": "The largest ocean on Earth is the ______ Ocean.",
+    "questionType": "fill-in-the-blank",
+    "category": "geography",
+    "difficulty": "medium",
+    "mode": "adult",
+    "correctAnswer": "Pacific"
+  },
+  {
+    "questionText": "Who painted the Mona Lisa?",
+    "questionType": "multiple-choice",
+    "category": "art",
+    "difficulty": "easy",
+    "mode": "adult",
+    "options": ["Vincent van Gogh", "Leonardo da Vinci", "Pablo Picasso", "Claude Monet"],
+    "correctAnswer": "Leonardo da Vinci"
+  },
+  {
+    "questionText": "What is the chemical symbol for water?",
+    "questionType": "fill-in-the-blank",
+    "category": "science",
+    "difficulty": "easy",
+    "mode": "adult",
+    "correctAnswer": "H2O"
+  },
+  {
+    "questionText": "True or False: A group of lions is called a pride.",
+    "questionType": "true-false",
+    "category": "animals",
+    "difficulty": "easy",
+    "mode": "adult",
+    "options": ["True", "False"],
+    "correctAnswer": "True"
+  },
+  {
+    "questionText": "Which country is famous for the Eiffel Tower?",
+    "questionType": "multiple-choice",
+    "category": "geography",
+    "difficulty": "easy",
+    "mode": "adult",
+    "options": ["Italy", "Spain", "France", "Germany"],
+    "correctAnswer": "France"
+  },
+  {
+    "questionText": "How many continents are there on Earth?",
+    "questionType": "fill-in-the-blank",
+    "category": "geography",
+    "difficulty": "easy",
+    "mode": "adult",
+    "correctAnswer": "7"
+  },
+  {
+    "questionText": "What is the smallest planet in our solar system?",
+    "questionType": "multiple-choice",
+    "category": "science",
+    "difficulty": "medium",
+    "mode": "adult",
+    "options": ["Mars", "Mercury", "Venus", "Earth"],
+    "correctAnswer": "Mercury"
+  }
+]

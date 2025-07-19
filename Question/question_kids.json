@@ -1,0 +1,29 @@
+[
+  {
+    "questionText": "What animal says 'Moo'?",
+    "questionType": "multiple-choice",
+    "category": "animals",
+    "difficulty": "easy",
+    "mode": "kids",
+    "options": ["Cat", "Dog", "Cow", "Bird"],
+    "correctAnswer": "Cow"
+  },
+  {
+    "questionText": "True or False: A circle has 3 sides.",
+    "questionType": "true-false",
+    "category": "shapes",
+    "difficulty": "easy",
+    "mode": "kids",
+    "options": ["True", "False"],
+    "correctAnswer": "False"
+  },
+  {
+    "questionText": "What color is the sky?",
+    "questionType": "multiple-choice",
+    "category": "general-knowledge",
+    "difficulty": "easy",
+    "mode": "kids",
+    "options": ["Red", "Green", "Blue", "Yellow"],
+    "correctAnswer": "Blue"
+  }
+]
